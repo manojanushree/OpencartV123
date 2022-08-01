@@ -36,7 +36,8 @@ public class BaseClass
 		
 	//Logging
 	logger = LogManager.getLogger(this.getClass());                   //need to pass paramater as name of the class-which ever class currently executing but should not hardcode as we run multiple times--> dynamically should take the class name 
-		
+	
+	
 	//Driver	
 	   if(br.equals("chrome"))
 	   {
