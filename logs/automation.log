@@ -134,3 +134,274 @@
 20:54:32.293 [main] INFO  testCases.TC_006_ProductCompare - Enter any Product
 20:54:35.740 [main] INFO  testCases.TC_006_ProductCompare - product displayed on HomePage
 20:54:38.799 [main] INFO  testCases.TC_006_ProductCompare - products comparing
+14:57:07.006 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+14:57:07.493 [main] INFO  testCases.TC_004_Search - Home Page Displayed 
+14:57:09.669 [main] INFO  testCases.TC_004_Search - Enter any Product
+14:57:21.096 [main] ERROR testCases.TC_004_Search - Search Success 
+14:57:21.228 [main] INFO  testCases.TC_004_Search -  Finished TC_004Search 
+14:57:22.032 [main] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+14:57:22.416 [main] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+14:57:25.586 [main] INFO  testCases.TC_005_Addcart - Enter any Product
+14:57:28.905 [main] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+14:57:28.941 [main] INFO  testCases.TC_005_Addcart - product added to cart
+14:57:33.957 [main] INFO  testCases.TC_005_Addcart - product added to viewcart
+14:57:33.984 [main] INFO  testCases.TC_005_Addcart - Search page is Success 
+14:57:33.984 [main] INFO  testCases.TC_005_Addcart - Finished TC_005_Addcart
+14:57:34.784 [main] INFO  testCases.TC_009_ForgotPassword - Starting TC_009_ForgotPassword
+14:57:35.184 [main] INFO  testCases.TC_009_ForgotPassword - Home Page Displayed 
+14:57:35.329 [main] INFO  testCases.TC_009_ForgotPassword - Clicked on My Account 
+14:57:35.574 [main] INFO  testCases.TC_009_ForgotPassword - Clicked on Login 
+14:57:35.616 [main] INFO  testCases.TC_009_ForgotPassword - Provided Email 
+14:57:38.846 [main] INFO  testCases.TC_009_ForgotPassword - Provided confirmation email
+14:57:41.081 [main] INFO  testCases.TC_009_ForgotPassword - Finished TC_009_ForgotPassword
+14:57:44.870 [main] INFO  testCases.TC_006_ProductCompare - Strating TC_006_ProductCompare
+14:57:45.292 [main] INFO  testCases.TC_006_ProductCompare - Home Page Displayed 
+14:57:48.466 [main] INFO  testCases.TC_006_ProductCompare - Enter any Product
+14:57:51.775 [main] INFO  testCases.TC_006_ProductCompare - product displayed on HomePage
+14:57:54.810 [main] INFO  testCases.TC_006_ProductCompare - products comparing
+14:57:58.830 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+14:57:59.217 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+14:58:01.395 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+14:58:02.736 [main] INFO  testCases.TC_008_ProductDisplayPage - click the search button
+14:58:04.797 [main] INFO  testCases.TC_008_ProductDisplayPage - click the image
+14:58:10.072 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product
+14:58:10.106 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product Review
+14:58:13.134 [main] INFO  testCases.TC_008_ProductDisplayPage - ProductDisplayPage  success 
+14:58:13.134 [main] INFO  testCases.TC_008_ProductDisplayPage -  Finished TC_008_ProductDisplayPage
+14:59:17.644 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+14:59:18.127 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+14:59:20.301 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+14:59:21.703 [main] INFO  testCases.TC_008_ProductDisplayPage - click the search button
+14:59:23.621 [main] INFO  testCases.TC_008_ProductDisplayPage - click the image
+14:59:26.106 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product
+14:59:26.156 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product Review
+14:59:29.183 [main] INFO  testCases.TC_008_ProductDisplayPage - ProductDisplayPage  success 
+14:59:29.184 [main] INFO  testCases.TC_008_ProductDisplayPage -  Finished TC_008_ProductDisplayPage
+15:03:31.235 [main] INFO  testCases.TC_007_WishList - Starting TC_007_WishList
+15:03:31.725 [main] INFO  testCases.TC_007_WishList - Home Page Displayed 
+15:03:33.894 [main] INFO  testCases.TC_007_WishList - Enter any Product
+15:03:43.684 [main] INFO  testCases.TC_007_WishList - Provided Email 
+15:03:43.717 [main] INFO  testCases.TC_007_WishList - Provided Password 
+15:03:44.026 [main] INFO  testCases.TC_007_WishList - Clicked on Login
+15:03:54.100 [main] ERROR testCases.TC_007_WishList - Search Success 
+15:03:54.220 [main] INFO  testCases.TC_007_WishList -  Finished TC_007_WishList 
+15:13:22.407 [main] INFO  testCases.TC_007_WishList - Starting TC_007_WishList
+15:13:22.926 [main] INFO  testCases.TC_007_WishList - Home Page Displayed 
+15:13:25.091 [main] INFO  testCases.TC_007_WishList - Enter any Product
+15:13:34.841 [main] INFO  testCases.TC_007_WishList - Provided Email 
+15:13:34.872 [main] INFO  testCases.TC_007_WishList - Provided Password 
+15:13:35.188 [main] INFO  testCases.TC_007_WishList - Clicked on Login
+15:13:45.252 [main] ERROR testCases.TC_007_WishList - Search Success 
+15:13:45.394 [main] INFO  testCases.TC_007_WishList -  Finished TC_007_WishList 
+15:13:46.278 [main] INFO  testCases.TC_010_ShoppingCart - Starting TC_010_ShoppingCart
+15:13:46.653 [main] INFO  testCases.TC_010_ShoppingCart - Home Page Displayed 
+15:13:46.827 [main] INFO  testCases.TC_010_ShoppingCart - Search iMac is  Displayed 
+15:13:47.238 [main] INFO  testCases.TC_010_ShoppingCart - Search Button clicked 
+15:13:50.277 [main] INFO  testCases.TC_010_ShoppingCart - Add to Cart clicked 
+15:13:55.641 [main] INFO  testCases.TC_010_ShoppingCart - Shopping Cart clicked 
+15:14:00.693 [main] INFO  testCases.TC_010_ShoppingCart - Use Coupon Code Clicked
+15:14:02.749 [main] INFO  testCases.TC_010_ShoppingCart - Entered Use Coupon Code 
+15:14:02.777 [main] INFO  testCases.TC_010_ShoppingCart - Estimated Shipping and Taxes clicked
+15:14:03.831 [main] INFO  testCases.TC_010_ShoppingCart - Selected Country
+15:14:06.880 [main] INFO  testCases.TC_010_ShoppingCart - Selected State
+15:14:07.930 [main] INFO  testCases.TC_010_ShoppingCart - Selected PostCode
+15:14:08.981 [main] INFO  testCases.TC_010_ShoppingCart - Get Quotes button clicked
+15:14:09.078 [main] INFO  testCases.TC_010_ShoppingCart - Selected Radio button
+15:14:10.122 [main] INFO  testCases.TC_010_ShoppingCart - Clicked Apply Shippiment
+15:14:15.160 [main] INFO  testCases.TC_010_ShoppingCart - Selected Use Gift Certificate
+15:14:15.316 [main] INFO  testCases.TC_010_ShoppingCart - Entered Gift certificate cade entered in the text box
+15:14:16.351 [main] INFO  testCases.TC_010_ShoppingCart - clicked Entered Apply Gift Certificate
+15:14:17.590 [main] INFO  testCases.TC_010_ShoppingCart - click on Continue Shopping
+15:20:21.364 [main] INFO  testCases.TC_010_ShoppingCart - Starting TC_010_ShoppingCart
+15:20:21.849 [main] INFO  testCases.TC_010_ShoppingCart - Home Page Displayed 
+15:20:22.015 [main] INFO  testCases.TC_010_ShoppingCart - Search iMac is  Displayed 
+15:20:22.398 [main] INFO  testCases.TC_010_ShoppingCart - Search Button clicked 
+15:20:25.430 [main] INFO  testCases.TC_010_ShoppingCart - Add to Cart clicked 
+15:20:30.685 [main] INFO  testCases.TC_010_ShoppingCart - Shopping Cart clicked 
+15:20:35.736 [main] INFO  testCases.TC_010_ShoppingCart - Use Coupon Code Clicked
+15:20:37.795 [main] INFO  testCases.TC_010_ShoppingCart - Entered Use Coupon Code 
+15:20:37.826 [main] INFO  testCases.TC_010_ShoppingCart - Estimated Shipping and Taxes clicked
+15:20:38.898 [main] INFO  testCases.TC_010_ShoppingCart - Selected Country
+15:20:41.958 [main] INFO  testCases.TC_010_ShoppingCart - Selected State
+15:20:43.005 [main] INFO  testCases.TC_010_ShoppingCart - Selected PostCode
+15:20:44.051 [main] INFO  testCases.TC_010_ShoppingCart - Get Quotes button clicked
+15:20:44.211 [main] INFO  testCases.TC_010_ShoppingCart - Selected Radio button
+15:20:45.256 [main] INFO  testCases.TC_010_ShoppingCart - Clicked Apply Shippiment
+15:20:50.325 [main] INFO  testCases.TC_010_ShoppingCart - Selected Use Gift Certificate
+15:20:50.483 [main] INFO  testCases.TC_010_ShoppingCart - Entered Gift certificate cade entered in the text box
+15:20:51.524 [main] INFO  testCases.TC_010_ShoppingCart - clicked Entered Apply Gift Certificate
+15:20:52.790 [main] INFO  testCases.TC_010_ShoppingCart - click on Continue Shopping
+15:20:56.590 [main] INFO  testCases.TC_011_Checkout -  Starting TC_004_Search 
+15:20:57.016 [main] INFO  testCases.TC_011_Checkout - Home Page Displayed 
+15:20:59.171 [main] INFO  testCases.TC_011_Checkout - Enter any Product
+15:20:59.523 [main] INFO  testCases.TC_011_Checkout - click on the search button
+15:21:00.565 [main] INFO  testCases.TC_011_Checkout - click on the add to cart button
+15:21:01.619 [main] INFO  testCases.TC_011_Checkout - click on the view cart
+15:21:04.894 [main] INFO  testCases.TC_011_Checkout - click on the shopping cart
+15:21:08.155 [main] INFO  testCases.TC_011_Checkout - click on the Checkout
+15:21:19.199 [main] ERROR testCases.TC_011_Checkout - Checkout Success 
+15:21:19.200 [main] INFO  testCases.TC_011_Checkout -  Finished TC_011_Checkout 
+15:42:51.155 [main] INFO  testCases.TC_012_MyAccount -  Starting TC_012_MyAccount 
+15:42:51.706 [main] INFO  testCases.TC_012_MyAccount - Home Page Displayed 
+15:42:51.862 [main] INFO  testCases.TC_012_MyAccount - Clicked on My Account 
+15:42:52.099 [main] INFO  testCases.TC_012_MyAccount - Clicked on Login 
+15:42:52.142 [main] INFO  testCases.TC_012_MyAccount - Provided Email 
+15:42:52.174 [main] INFO  testCases.TC_012_MyAccount - Provided Password 
+15:42:52.420 [main] INFO  testCases.TC_012_MyAccount - Clicked on Login
+15:42:55.460 [main] INFO  testCases.TC_012_MyAccount - Click on MyAccount
+15:42:55.646 [main] INFO  testCases.TC_012_MyAccount - Click on OrderHistory 
+15:42:58.692 [main] INFO  testCases.TC_012_MyAccount - Click on MyAccount
+15:43:02.019 [main] INFO  testCases.TC_012_MyAccount - Click on LogOut
+15:43:02.384 [main] INFO  testCases.TC_012_MyAccount - Click on SiteMap Link
+15:43:05.396 [main] INFO  testCases.TC_012_MyAccount - Finished TC_012_MyAccount
+15:49:44.992 [main] INFO  testCases.TC_013_MyAccountInformation -  Starting TC_013_MyAccountInformation 
+15:49:45.488 [main] INFO  testCases.TC_013_MyAccountInformation - Home Page Displayed 
+15:49:45.656 [main] INFO  testCases.TC_013_MyAccountInformation - Clicked on My Account 
+15:49:45.860 [main] INFO  testCases.TC_013_MyAccountInformation - Clicked on Login 
+15:49:45.909 [main] INFO  testCases.TC_013_MyAccountInformation - Provided Email 
+15:49:45.947 [main] INFO  testCases.TC_013_MyAccountInformation - Provided Password 
+15:49:46.216 [main] INFO  testCases.TC_013_MyAccountInformation - Clicked on Login
+15:49:49.472 [main] INFO  testCases.TC_013_MyAccountInformation - Click on Edit Your Account Infomation
+15:49:52.541 [main] INFO  testCases.TC_013_MyAccountInformation - Edit Telephone number
+15:49:55.542 [main] INFO  testCases.TC_013_MyAccountInformation - Finished TC_013_MyAccountInformation
+15:54:55.425 [main] INFO  testCases.TC_015_AddressBook -  Starting TC_015_AddressBook
+15:54:55.901 [main] INFO  testCases.TC_015_AddressBook - Home Page Displayed 
+15:54:56.144 [main] INFO  testCases.TC_015_AddressBook - Clicked on My Account 
+15:54:56.392 [main] INFO  testCases.TC_015_AddressBook - Clicked on Login 
+15:54:56.440 [main] INFO  testCases.TC_015_AddressBook - Provided Email 
+15:54:56.475 [main] INFO  testCases.TC_015_AddressBook - Provided Password 
+15:54:56.716 [main] INFO  testCases.TC_015_AddressBook - Clicked on Login
+15:54:59.980 [main] INFO  testCases.TC_015_AddressBook - click on AddressBook
+15:55:03.361 [main] INFO  testCases.TC_015_AddressBook - click on new AddressBook
+15:55:03.565 [main] INFO  testCases.TC_015_AddressBook - Click on Back Button
+15:55:06.580 [main] INFO  testCases.TC_015_AddressBook - Finished TC_015_AddressBook
+16:02:56.461 [main] INFO  testCases.TC_016_OderHistory -  Starting TC_016_OrderHistory
+16:02:56.938 [main] INFO  testCases.TC_016_OderHistory - Home Page Displayed 
+16:02:57.131 [main] INFO  testCases.TC_016_OderHistory - Clicked on My Account 
+16:02:57.391 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login 
+16:02:57.444 [main] INFO  testCases.TC_016_OderHistory - Provided Email 
+16:02:57.480 [main] INFO  testCases.TC_016_OderHistory - Provided Password 
+16:02:57.715 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login
+16:03:00.916 [main] INFO  testCases.TC_016_OderHistory - Clicked on Order History
+16:03:03.924 [main] INFO  testCases.TC_016_OderHistory - Finished TC_016_OrderHistory
+16:17:40.205 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+16:17:40.738 [main] INFO  testCases.TC_004_Search - Home Page Displayed 
+16:17:42.917 [main] INFO  testCases.TC_004_Search - Enter any Product
+16:17:54.380 [main] ERROR testCases.TC_004_Search - Search Success 
+16:17:54.530 [main] INFO  testCases.TC_004_Search -  Finished TC_004Search 
+16:17:55.439 [main] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+16:17:55.907 [main] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+16:17:59.090 [main] INFO  testCases.TC_005_Addcart - Enter any Product
+16:18:02.492 [main] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+16:18:02.520 [main] INFO  testCases.TC_005_Addcart - product added to cart
+16:18:07.535 [main] INFO  testCases.TC_005_Addcart - product added to viewcart
+16:18:07.557 [main] INFO  testCases.TC_005_Addcart - Search page is Success 
+16:18:07.557 [main] INFO  testCases.TC_005_Addcart - Finished TC_005_Addcart
+16:18:08.522 [main] INFO  testCases.TC_016_OderHistory -  Starting TC_016_OrderHistory
+16:18:08.964 [main] INFO  testCases.TC_016_OderHistory - Home Page Displayed 
+16:18:09.116 [main] INFO  testCases.TC_016_OderHistory - Clicked on My Account 
+16:18:09.347 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login 
+16:18:09.393 [main] INFO  testCases.TC_016_OderHistory - Provided Email 
+16:18:09.427 [main] INFO  testCases.TC_016_OderHistory - Provided Password 
+16:18:09.654 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login
+16:18:12.854 [main] INFO  testCases.TC_016_OderHistory - Clicked on Order History
+16:18:15.868 [main] INFO  testCases.TC_016_OderHistory - Finished TC_016_OrderHistory
+16:18:16.817 [main] INFO  testCases.TC_019_Returns -  Starting TC_016_OrderHistory
+16:18:17.269 [main] INFO  testCases.TC_019_Returns - Home Page Displayed 
+16:18:17.479 [main] INFO  testCases.TC_019_Returns - Clicked on My Account 
+16:18:17.697 [main] INFO  testCases.TC_019_Returns - Clicked on Login 
+16:18:17.742 [main] INFO  testCases.TC_019_Returns - Provided Email 
+16:18:17.779 [main] INFO  testCases.TC_019_Returns - Provided Password 
+16:18:18.005 [main] INFO  testCases.TC_019_Returns - Clicked on Login
+16:18:24.216 [main] INFO  testCases.TC_019_Returns - Click on Returns
+16:18:24.216 [main] INFO  testCases.TC_019_Returns - Finished TC_019_Returns
+16:24:46.704 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+16:24:47.315 [main] INFO  testCases.TC_004_Search - Home Page Displayed 
+16:24:49.500 [main] INFO  testCases.TC_004_Search - Enter any Product
+16:25:00.887 [main] ERROR testCases.TC_004_Search - Search Success 
+16:25:01.009 [main] INFO  testCases.TC_004_Search -  Finished TC_004Search 
+16:25:01.873 [main] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+16:25:02.262 [main] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+16:25:05.414 [main] INFO  testCases.TC_005_Addcart - Enter any Product
+16:25:08.789 [main] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+16:25:08.816 [main] INFO  testCases.TC_005_Addcart - product added to cart
+16:25:13.839 [main] INFO  testCases.TC_005_Addcart - product added to viewcart
+16:25:13.859 [main] INFO  testCases.TC_005_Addcart - Search page is Success 
+16:25:13.859 [main] INFO  testCases.TC_005_Addcart - Finished TC_005_Addcart
+16:25:14.781 [main] INFO  testCases.TC_016_OderHistory -  Starting TC_016_OrderHistory
+16:25:15.190 [main] INFO  testCases.TC_016_OderHistory - Home Page Displayed 
+16:25:15.348 [main] INFO  testCases.TC_016_OderHistory - Clicked on My Account 
+16:25:15.613 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login 
+16:25:15.657 [main] INFO  testCases.TC_016_OderHistory - Provided Email 
+16:25:15.693 [main] INFO  testCases.TC_016_OderHistory - Provided Password 
+16:25:15.959 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login
+16:25:19.179 [main] INFO  testCases.TC_016_OderHistory - Clicked on Order History
+16:25:22.182 [main] INFO  testCases.TC_016_OderHistory - Finished TC_016_OrderHistory
+16:25:23.128 [main] INFO  testCases.TC_019_Returns -  Starting TC_016_OrderHistory
+16:25:23.559 [main] INFO  testCases.TC_019_Returns - Home Page Displayed 
+16:25:23.770 [main] INFO  testCases.TC_019_Returns - Clicked on My Account 
+16:25:24.029 [main] INFO  testCases.TC_019_Returns - Clicked on Login 
+16:25:24.071 [main] INFO  testCases.TC_019_Returns - Provided Email 
+16:25:24.105 [main] INFO  testCases.TC_019_Returns - Provided Password 
+16:25:24.361 [main] INFO  testCases.TC_019_Returns - Clicked on Login
+16:25:30.588 [main] INFO  testCases.TC_019_Returns - Click on Returns
+16:25:30.588 [main] INFO  testCases.TC_019_Returns - Finished TC_019_Returns
+16:25:31.508 [main] INFO  testCases.TC_020_Transections -  Starting TC_016_OrderHistory
+16:25:31.995 [main] INFO  testCases.TC_020_Transections - Home Page Displayed 
+16:25:32.145 [main] INFO  testCases.TC_020_Transections - Clicked on My Account 
+16:25:32.393 [main] INFO  testCases.TC_020_Transections - Clicked on Login 
+16:25:32.434 [main] INFO  testCases.TC_020_Transections - Provided Email 
+16:25:32.468 [main] INFO  testCases.TC_020_Transections - Provided Password 
+16:25:32.715 [main] INFO  testCases.TC_020_Transections - Clicked on Login
+16:25:35.938 [main] INFO  testCases.TC_020_Transections - Clicked on Transections
+16:25:38.943 [main] INFO  testCases.TC_020_Transections - Finished TC_020_Transections
+16:27:39.620 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+16:27:40.134 [main] INFO  testCases.TC_004_Search - Home Page Displayed 
+16:27:42.310 [main] INFO  testCases.TC_004_Search - Enter any Product
+16:27:53.714 [main] ERROR testCases.TC_004_Search - Search Success 
+16:27:53.843 [main] INFO  testCases.TC_004_Search -  Finished TC_004Search 
+16:27:54.719 [main] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+16:27:55.129 [main] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+16:27:58.286 [main] INFO  testCases.TC_005_Addcart - Enter any Product
+16:28:01.661 [main] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+16:28:01.690 [main] INFO  testCases.TC_005_Addcart - product added to cart
+16:28:06.705 [main] INFO  testCases.TC_005_Addcart - product added to viewcart
+16:28:06.727 [main] INFO  testCases.TC_005_Addcart - Search page is Success 
+16:28:06.727 [main] INFO  testCases.TC_005_Addcart - Finished TC_005_Addcart
+16:28:07.661 [main] INFO  testCases.TC_016_OderHistory -  Starting TC_016_OrderHistory
+16:28:08.039 [main] INFO  testCases.TC_016_OderHistory - Home Page Displayed 
+16:28:08.239 [main] INFO  testCases.TC_016_OderHistory - Clicked on My Account 
+16:28:08.476 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login 
+16:28:08.538 [main] INFO  testCases.TC_016_OderHistory - Provided Email 
+16:28:08.573 [main] INFO  testCases.TC_016_OderHistory - Provided Password 
+16:28:08.815 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login
+16:28:12.032 [main] INFO  testCases.TC_016_OderHistory - Clicked on Order History
+16:28:15.047 [main] INFO  testCases.TC_016_OderHistory - Finished TC_016_OrderHistory
+16:28:15.952 [main] INFO  testCases.TC_019_Returns -  Starting TC_016_OrderHistory
+16:28:16.349 [main] INFO  testCases.TC_019_Returns - Home Page Displayed 
+16:28:16.568 [main] INFO  testCases.TC_019_Returns - Clicked on My Account 
+16:28:16.811 [main] INFO  testCases.TC_019_Returns - Clicked on Login 
+16:28:16.855 [main] INFO  testCases.TC_019_Returns - Provided Email 
+16:28:16.891 [main] INFO  testCases.TC_019_Returns - Provided Password 
+16:28:17.131 [main] INFO  testCases.TC_019_Returns - Clicked on Login
+16:28:23.362 [main] INFO  testCases.TC_019_Returns - Click on Returns
+16:28:23.362 [main] INFO  testCases.TC_019_Returns - Finished TC_019_Returns
+16:28:24.295 [main] INFO  testCases.TC_017_Downloads -  Starting TC_016_OrderHistory
+16:28:24.704 [main] INFO  testCases.TC_017_Downloads - Home Page Displayed 
+16:28:24.855 [main] INFO  testCases.TC_017_Downloads - Clicked on My Account 
+16:28:25.111 [main] INFO  testCases.TC_017_Downloads - Clicked on Login 
+16:28:25.155 [main] INFO  testCases.TC_017_Downloads - Provided Email 
+16:28:25.194 [main] INFO  testCases.TC_017_Downloads - Provided Password 
+16:28:25.462 [main] INFO  testCases.TC_017_Downloads - Clicked on Login
+16:28:28.826 [main] INFO  testCases.TC_017_Downloads - Clicked on Site Map
+16:28:29.033 [main] INFO  testCases.TC_017_Downloads - Clicked on Download
+16:28:32.049 [main] INFO  testCases.TC_017_Downloads - Finished TC_017_Downloads
+16:28:32.962 [main] INFO  testCases.TC_020_Transections -  Starting TC_016_OrderHistory
+16:28:33.356 [main] INFO  testCases.TC_020_Transections - Home Page Displayed 
+16:28:33.504 [main] INFO  testCases.TC_020_Transections - Clicked on My Account 
+16:28:33.787 [main] INFO  testCases.TC_020_Transections - Clicked on Login 
+16:28:33.845 [main] INFO  testCases.TC_020_Transections - Provided Email 
+16:28:33.890 [main] INFO  testCases.TC_020_Transections - Provided Password 
+16:28:34.141 [main] INFO  testCases.TC_020_Transections - Clicked on Login
+16:28:37.365 [main] INFO  testCases.TC_020_Transections - Clicked on Transections
+16:28:40.380 [main] INFO  testCases.TC_020_Transections - Finished TC_020_Transections

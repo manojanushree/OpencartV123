@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-01T20:53:45 EDT" name="opencart" finished-at="2022-08-01T20:54:42 EDT" duration-ms="56312">
+  <suite started-at="2022-08-02T16:27:37 EDT" name="opencart" finished-at="2022-08-02T16:28:40 EDT" duration-ms="62972">
     <groups>
       <group name="sanity">
-        <method signature="TC_004_Search.test_search()[pri:0, instance:testCases.TC_004_Search@53aac487]" name="test_search" class="testCases.TC_004_Search"/>
+        <method signature="TC_004_Search.test_search()[pri:0, instance:testCases.TC_004_Search@7db12bb6]" name="test_search" class="testCases.TC_004_Search"/>
       </group> <!-- sanity -->
     </groups>
-    <test started-at="2022-08-01T20:53:45 EDT" name="Test" finished-at="2022-08-01T20:54:42 EDT" duration-ms="56312">
-      <class name="testCases.TC_006_ProductCompare">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_006_ProductCompare@130c12b7]" started-at="2022-08-01T20:54:27 EDT" name="setup" finished-at="2022-08-01T20:54:28 EDT" duration-ms="964" status="PASS">
+    <test started-at="2022-08-02T16:27:37 EDT" name="Test" finished-at="2022-08-02T16:28:40 EDT" duration-ms="62972">
+      <class name="testCases.TC_019_Returns">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_019_Returns@5d534f5d]" started-at="2022-08-02T16:28:15 EDT" name="setup" finished-at="2022-08-02T16:28:15 EDT" duration-ms="820" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -21,17 +21,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_productcompare()[pri:0, instance:testCases.TC_006_ProductCompare@130c12b7]" started-at="2022-08-01T20:54:28 EDT" name="test_productcompare" finished-at="2022-08-01T20:54:42 EDT" duration-ms="13589" status="PASS">
+        <test-method signature="test_Returns()[pri:0, instance:testCases.TC_019_Returns@5d534f5d]" started-at="2022-08-02T16:28:15 EDT" name="test_Returns" finished-at="2022-08-02T16:28:23 EDT" duration-ms="7410" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_productcompare -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_006_ProductCompare@130c12b7]" started-at="2022-08-01T20:54:42 EDT" name="tearDown" finished-at="2022-08-01T20:54:42 EDT" duration-ms="121" status="PASS">
+        </test-method> <!-- test_Returns -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_019_Returns@5d534f5d]" started-at="2022-08-02T16:28:23 EDT" name="tearDown" finished-at="2022-08-02T16:28:23 EDT" duration-ms="136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_006_ProductCompare -->
-      <class name="testCases.TC_004_Search">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_004_Search@53aac487]" started-at="2022-08-01T20:53:46 EDT" name="setup" finished-at="2022-08-01T20:53:48 EDT" duration-ms="2587" status="PASS">
+      </class> <!-- testCases.TC_019_Returns -->
+      <class name="testCases.TC_016_OderHistory">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_016_OderHistory@576d5deb]" started-at="2022-08-02T16:28:06 EDT" name="setup" finished-at="2022-08-02T16:28:07 EDT" duration-ms="854" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -42,17 +42,59 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_search()[pri:0, instance:testCases.TC_004_Search@53aac487]" started-at="2022-08-01T20:53:48 EDT" name="test_search" finished-at="2022-08-01T20:54:03 EDT" duration-ms="14615" status="PASS">
+        <test-method signature="test_OrderHistory()[pri:0, instance:testCases.TC_016_OderHistory@576d5deb]" started-at="2022-08-02T16:28:07 EDT" name="test_OrderHistory" finished-at="2022-08-02T16:28:15 EDT" duration-ms="7386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_OrderHistory -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_016_OderHistory@576d5deb]" started-at="2022-08-02T16:28:15 EDT" name="tearDown" finished-at="2022-08-02T16:28:15 EDT" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_016_OderHistory -->
+      <class name="testCases.TC_020_Transections">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_020_Transections@70e9c95d]" started-at="2022-08-02T16:28:32 EDT" name="setup" finished-at="2022-08-02T16:28:32 EDT" duration-ms="838" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_transections()[pri:0, instance:testCases.TC_020_Transections@70e9c95d]" started-at="2022-08-02T16:28:32 EDT" name="test_transections" finished-at="2022-08-02T16:28:40 EDT" duration-ms="7419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_transections -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_020_Transections@70e9c95d]" started-at="2022-08-02T16:28:40 EDT" name="tearDown" finished-at="2022-08-02T16:28:40 EDT" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_020_Transections -->
+      <class name="testCases.TC_004_Search">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_004_Search@7db12bb6]" started-at="2022-08-02T16:27:37 EDT" name="setup" finished-at="2022-08-02T16:27:39 EDT" duration-ms="1918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_search()[pri:0, instance:testCases.TC_004_Search@7db12bb6]" started-at="2022-08-02T16:27:39 EDT" name="test_search" finished-at="2022-08-02T16:27:53 EDT" duration-ms="14228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_search -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_Search@53aac487]" started-at="2022-08-01T20:54:03 EDT" name="tearDown" finished-at="2022-08-01T20:54:03 EDT" duration-ms="105" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_Search@7db12bb6]" started-at="2022-08-02T16:27:53 EDT" name="tearDown" finished-at="2022-08-02T16:27:53 EDT" duration-ms="87" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_004_Search -->
-      <class name="testCases.TC_009_ForgotPassword">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_009_ForgotPassword@121314f7]" started-at="2022-08-01T20:54:16 EDT" name="setup" finished-at="2022-08-01T20:54:17 EDT" duration-ms="860" status="PASS">
+      <class name="testCases.TC_017_Downloads">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_017_Downloads@2e3967ea]" started-at="2022-08-02T16:28:23 EDT" name="setup" finished-at="2022-08-02T16:28:24 EDT" duration-ms="795" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -63,17 +105,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_forgotpassword()[pri:0, instance:testCases.TC_009_ForgotPassword@121314f7]" started-at="2022-08-01T20:54:17 EDT" name="test_forgotpassword" finished-at="2022-08-01T20:54:27 EDT" duration-ms="9664" status="PASS">
+        <test-method signature="test_downloads()[pri:0, instance:testCases.TC_017_Downloads@2e3967ea]" started-at="2022-08-02T16:28:24 EDT" name="test_downloads" finished-at="2022-08-02T16:28:32 EDT" duration-ms="7755" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_forgotpassword -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_009_ForgotPassword@121314f7]" started-at="2022-08-01T20:54:27 EDT" name="tearDown" finished-at="2022-08-01T20:54:27 EDT" duration-ms="122" status="PASS">
+        </test-method> <!-- test_downloads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_017_Downloads@2e3967ea]" started-at="2022-08-02T16:28:32 EDT" name="tearDown" finished-at="2022-08-02T16:28:32 EDT" duration-ms="74" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_009_ForgotPassword -->
+      </class> <!-- testCases.TC_017_Downloads -->
       <class name="testCases.TC_005_Addcart">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_005_Addcart@60bd273d]" started-at="2022-08-01T20:54:03 EDT" name="setup" finished-at="2022-08-01T20:54:04 EDT" duration-ms="1033" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_005_Addcart@5e600dd5]" started-at="2022-08-02T16:27:53 EDT" name="setup" finished-at="2022-08-02T16:27:54 EDT" duration-ms="778" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -84,11 +126,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_addcart()[pri:0, instance:testCases.TC_005_Addcart@60bd273d]" started-at="2022-08-01T20:54:04 EDT" name="test_addcart" finished-at="2022-08-01T20:54:16 EDT" duration-ms="12171" status="PASS">
+        <test-method signature="test_addcart()[pri:0, instance:testCases.TC_005_Addcart@5e600dd5]" started-at="2022-08-02T16:27:54 EDT" name="test_addcart" finished-at="2022-08-02T16:28:06 EDT" duration-ms="12009" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_addcart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_Addcart@60bd273d]" started-at="2022-08-01T20:54:16 EDT" name="tearDown" finished-at="2022-08-01T20:54:16 EDT" duration-ms="187" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_Addcart@5e600dd5]" started-at="2022-08-02T16:28:06 EDT" name="tearDown" finished-at="2022-08-02T16:28:06 EDT" duration-ms="78" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

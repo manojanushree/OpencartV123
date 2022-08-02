@@ -13,8 +13,19 @@
       <!--<class name="testCases.TC_003_LoginDDT"/>-->
       <class name="testCases.TC_004_Search"/>
       <class name="testCases.TC_005_Addcart"/>
-      <class name="testCases.TC_009_ForgotPassword"/>
+      <!--<class name="testCases.TC_009_ForgotPassword"/>
       <class name="testCases.TC_006_ProductCompare"/>
+      <class name="testCases.TC_008_ProductDisplayPage"/>
+      <class name="testCases.TC_007_WishList"/>
+      <class name="testCases.TC_010_ShoppingCart"/>
+      <class name="testCases.TC_011_Checkout"/>
+      <class name="testCases.TC_012_MyAccount"/>
+      <class name="testCases.TC_013_MyAccountInformation"/>
+      <class name="testCases.TC_015_AddressBook"/>-->
+      <class name="testCases.TC_016_OderHistory"/>
+      <class name="testCases.TC_019_Returns"/>
+      <class name="testCases.TC_017_Downloads"/>
+      <class name="testCases.TC_020_Transections"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- open cart -->
