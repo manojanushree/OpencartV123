@@ -5,21 +5,63 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class MyAccountPage {
-WebDriver driver;
+public class MyAccountPage 
+{
+	WebDriver driver;
 	
 	public MyAccountPage(WebDriver driver)
 	{
 		this.driver=driver;
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(driver,this);
 	}
+
+	@FindBy(xpath="//input[@id='input-email']")
+	WebElement txtEmailAddress;
 	
-	@FindBy(xpath="//div[@class='list-group']//a[text()='Logout']")
-	WebElement lnkLogout;
+	@FindBy(xpath="//input[@id='input-password']")
+	WebElement txtPassword;
 	
-	public void clickLogout()
+	@FindBy(xpath="//input[@value='Login']")
+	WebElement btnLogin;
+	
+	@FindBy(xpath="//a[text()='Order History']")
+	WebElement orderhistory;
+	
+	 @FindBy(xpath="//div[@class='list-group']//a[text()='Logout']")
+		WebElement lnkLogout;
+	 
+	 @FindBy(xpath="//a[text()='Site Map']")
+	 WebElement sitemap;
+	   
+	   public void clickLogout()
+	   {
+		   lnkLogout.click();
+		 
+	   }
+	
+	public void setEmail(String email)
 	{
-		lnkLogout.click();
+		txtEmailAddress.sendKeys(email);
 	}
-		
+	
+	public void setPassword(String pwd)
+	{
+		txtPassword.sendKeys(pwd);
+	}
+	
+	public void clickLogin()
+	{
+		btnLogin.click();
+	}
+	
+	public void order_history()
+	{
+		orderhistory.click();
+	}
+	
+	public void site_map()
+	{
+		sitemap.click();
+	}
+	
 }
