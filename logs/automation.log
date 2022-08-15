@@ -405,3 +405,153 @@
 16:28:34.141 [main] INFO  testCases.TC_020_Transections - Clicked on Login
 16:28:37.365 [main] INFO  testCases.TC_020_Transections - Clicked on Transections
 16:28:40.380 [main] INFO  testCases.TC_020_Transections - Finished TC_020_Transections
+17:33:20.014 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+17:33:21.373 [main] INFO  testCases.TC_004_Search - Home Page Displayed 
+17:33:23.615 [main] INFO  testCases.TC_004_Search - Enter any Product
+17:33:35.535 [main] ERROR testCases.TC_004_Search - Search Success 
+17:33:35.726 [main] INFO  testCases.TC_004_Search -  Finished TC_004Search 
+17:33:36.846 [main] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+17:33:37.562 [main] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+17:33:40.755 [main] INFO  testCases.TC_005_Addcart - Enter any Product
+17:33:44.578 [main] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+17:33:44.623 [main] INFO  testCases.TC_005_Addcart - product added to cart
+17:33:49.642 [main] INFO  testCases.TC_005_Addcart - product added to viewcart
+17:33:49.668 [main] INFO  testCases.TC_005_Addcart - Search page is Success 
+17:33:49.668 [main] INFO  testCases.TC_005_Addcart - Finished TC_005_Addcart
+17:33:50.754 [main] INFO  testCases.TC_009_ForgotPassword - Starting TC_009_ForgotPassword
+17:33:51.513 [main] INFO  testCases.TC_009_ForgotPassword - Home Page Displayed 
+17:33:51.764 [main] INFO  testCases.TC_009_ForgotPassword - Clicked on My Account 
+17:33:52.328 [main] INFO  testCases.TC_009_ForgotPassword - Clicked on Login 
+17:33:52.409 [main] INFO  testCases.TC_009_ForgotPassword - Provided Email 
+17:33:55.986 [main] INFO  testCases.TC_009_ForgotPassword - Provided confirmation email
+17:33:58.480 [main] INFO  testCases.TC_009_ForgotPassword - Finished TC_009_ForgotPassword
+17:34:02.562 [main] INFO  testCases.TC_006_ProductCompare - Strating TC_006_ProductCompare
+17:34:03.360 [main] INFO  testCases.TC_006_ProductCompare - Home Page Displayed 
+17:34:06.549 [main] INFO  testCases.TC_006_ProductCompare - Enter any Product
+17:34:10.402 [main] INFO  testCases.TC_006_ProductCompare - product displayed on HomePage
+17:34:13.476 [main] INFO  testCases.TC_006_ProductCompare - products comparing
+17:34:18.047 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+17:34:18.747 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+17:34:20.957 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+17:34:22.736 [main] INFO  testCases.TC_008_ProductDisplayPage - click the search button
+17:34:25.075 [main] INFO  testCases.TC_008_ProductDisplayPage - click the image
+17:34:28.253 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product
+17:34:28.299 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product Review
+17:34:31.339 [main] INFO  testCases.TC_008_ProductDisplayPage - ProductDisplayPage  success 
+17:34:31.340 [main] INFO  testCases.TC_008_ProductDisplayPage -  Finished TC_008_ProductDisplayPage
+17:34:32.476 [main] INFO  testCases.TC_007_WishList - Starting TC_007_WishList
+17:34:33.197 [main] INFO  testCases.TC_007_WishList - Home Page Displayed 
+17:34:35.397 [main] INFO  testCases.TC_007_WishList - Enter any Product
+17:34:45.946 [main] INFO  testCases.TC_007_WishList - Provided Email 
+17:34:46.009 [main] INFO  testCases.TC_007_WishList - Provided Password 
+17:34:46.588 [main] INFO  testCases.TC_007_WishList - Clicked on Login
+17:34:56.619 [main] ERROR testCases.TC_007_WishList - Search Success 
+17:34:56.741 [main] INFO  testCases.TC_007_WishList -  Finished TC_007_WishList 
+17:34:57.830 [main] INFO  testCases.TC_010_ShoppingCart - Starting TC_010_ShoppingCart
+17:34:58.629 [main] INFO  testCases.TC_010_ShoppingCart - Home Page Displayed 
+17:34:58.838 [main] INFO  testCases.TC_010_ShoppingCart - Search iMac is  Displayed 
+17:34:59.614 [main] INFO  testCases.TC_010_ShoppingCart - Search Button clicked 
+17:35:02.670 [main] INFO  testCases.TC_010_ShoppingCart - Add to Cart clicked 
+17:35:08.302 [main] INFO  testCases.TC_010_ShoppingCart - Shopping Cart clicked 
+17:35:13.355 [main] INFO  testCases.TC_010_ShoppingCart - Use Coupon Code Clicked
+17:35:15.444 [main] INFO  testCases.TC_010_ShoppingCart - Entered Use Coupon Code 
+17:35:15.498 [main] INFO  testCases.TC_010_ShoppingCart - Estimated Shipping and Taxes clicked
+17:35:16.568 [main] INFO  testCases.TC_010_ShoppingCart - Selected Country
+17:35:19.656 [main] INFO  testCases.TC_010_ShoppingCart - Selected State
+17:35:20.720 [main] INFO  testCases.TC_010_ShoppingCart - Selected PostCode
+17:35:21.768 [main] INFO  testCases.TC_010_ShoppingCart - Get Quotes button clicked
+17:35:21.946 [main] INFO  testCases.TC_010_ShoppingCart - Selected Radio button
+17:35:22.995 [main] INFO  testCases.TC_010_ShoppingCart - Clicked Apply Shippiment
+17:35:28.060 [main] INFO  testCases.TC_010_ShoppingCart - Selected Use Gift Certificate
+17:35:28.243 [main] INFO  testCases.TC_010_ShoppingCart - Entered Gift certificate cade entered in the text box
+17:35:29.295 [main] INFO  testCases.TC_010_ShoppingCart - clicked Entered Apply Gift Certificate
+17:35:30.834 [main] INFO  testCases.TC_010_ShoppingCart - click on Continue Shopping
+17:35:34.938 [main] INFO  testCases.TC_011_Checkout -  Starting TC_004_Search 
+17:35:35.641 [main] INFO  testCases.TC_011_Checkout - Home Page Displayed 
+17:35:37.816 [main] INFO  testCases.TC_011_Checkout - Enter any Product
+17:35:38.627 [main] INFO  testCases.TC_011_Checkout - click on the search button
+17:35:39.685 [main] INFO  testCases.TC_011_Checkout - click on the add to cart button
+17:35:40.739 [main] INFO  testCases.TC_011_Checkout - click on the view cart
+17:35:44.310 [main] INFO  testCases.TC_011_Checkout - click on the shopping cart
+17:35:47.830 [main] INFO  testCases.TC_011_Checkout - click on the Checkout
+17:35:58.870 [main] ERROR testCases.TC_011_Checkout - Checkout Success 
+17:35:58.870 [main] INFO  testCases.TC_011_Checkout -  Finished TC_011_Checkout 
+17:36:00.048 [main] INFO  testCases.TC_012_MyAccount -  Starting TC_012_MyAccount 
+17:36:00.861 [main] INFO  testCases.TC_012_MyAccount - Home Page Displayed 
+17:36:01.105 [main] INFO  testCases.TC_012_MyAccount - Clicked on My Account 
+17:36:01.610 [main] INFO  testCases.TC_012_MyAccount - Clicked on Login 
+17:36:01.669 [main] INFO  testCases.TC_012_MyAccount - Provided Email 
+17:36:01.723 [main] INFO  testCases.TC_012_MyAccount - Provided Password 
+17:36:02.330 [main] INFO  testCases.TC_012_MyAccount - Clicked on Login
+17:36:05.377 [main] INFO  testCases.TC_012_MyAccount - Click on MyAccount
+17:36:05.832 [main] INFO  testCases.TC_012_MyAccount - Click on OrderHistory 
+17:36:08.880 [main] INFO  testCases.TC_012_MyAccount - Click on MyAccount
+17:36:12.521 [main] INFO  testCases.TC_012_MyAccount - Click on LogOut
+17:36:13.377 [main] INFO  testCases.TC_012_MyAccount - Click on SiteMap Link
+17:36:16.392 [main] INFO  testCases.TC_012_MyAccount - Finished TC_012_MyAccount
+17:36:17.555 [main] INFO  testCases.TC_013_MyAccountInformation -  Starting TC_013_MyAccountInformation 
+17:36:18.417 [main] INFO  testCases.TC_013_MyAccountInformation - Home Page Displayed 
+17:36:18.583 [main] INFO  testCases.TC_013_MyAccountInformation - Clicked on My Account 
+17:36:19.065 [main] INFO  testCases.TC_013_MyAccountInformation - Clicked on Login 
+17:36:19.136 [main] INFO  testCases.TC_013_MyAccountInformation - Provided Email 
+17:36:19.196 [main] INFO  testCases.TC_013_MyAccountInformation - Provided Password 
+17:36:19.804 [main] INFO  testCases.TC_013_MyAccountInformation - Clicked on Login
+17:36:23.342 [main] INFO  testCases.TC_013_MyAccountInformation - Click on Edit Your Account Infomation
+17:36:26.452 [main] INFO  testCases.TC_013_MyAccountInformation - Edit Telephone number
+17:36:29.454 [main] INFO  testCases.TC_013_MyAccountInformation - Finished TC_013_MyAccountInformation
+17:36:30.601 [main] INFO  testCases.TC_015_AddressBook -  Starting TC_015_AddressBook
+17:36:31.333 [main] INFO  testCases.TC_015_AddressBook - Home Page Displayed 
+17:36:31.590 [main] INFO  testCases.TC_015_AddressBook - Clicked on My Account 
+17:36:32.078 [main] INFO  testCases.TC_015_AddressBook - Clicked on Login 
+17:36:32.139 [main] INFO  testCases.TC_015_AddressBook - Provided Email 
+17:36:32.179 [main] INFO  testCases.TC_015_AddressBook - Provided Password 
+17:36:32.788 [main] INFO  testCases.TC_015_AddressBook - Clicked on Login
+17:36:36.284 [main] INFO  testCases.TC_015_AddressBook - click on AddressBook
+17:36:39.805 [main] INFO  testCases.TC_015_AddressBook - click on new AddressBook
+17:36:40.301 [main] INFO  testCases.TC_015_AddressBook - Click on Back Button
+17:36:43.303 [main] INFO  testCases.TC_015_AddressBook - Finished TC_015_AddressBook
+17:36:44.650 [main] INFO  testCases.TC_016_OderHistory -  Starting TC_016_OrderHistory
+17:36:45.555 [main] INFO  testCases.TC_016_OderHistory - Home Page Displayed 
+17:36:45.717 [main] INFO  testCases.TC_016_OderHistory - Clicked on My Account 
+17:36:46.230 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login 
+17:36:46.302 [main] INFO  testCases.TC_016_OderHistory - Provided Email 
+17:36:46.368 [main] INFO  testCases.TC_016_OderHistory - Provided Password 
+17:36:47.003 [main] INFO  testCases.TC_016_OderHistory - Clicked on Login
+17:36:50.525 [main] INFO  testCases.TC_016_OderHistory - Clicked on Order History
+17:36:53.527 [main] INFO  testCases.TC_016_OderHistory - Finished TC_016_OrderHistory
+17:36:54.591 [main] INFO  testCases.TC_019_Returns -  Starting TC_016_OrderHistory
+17:36:55.345 [main] INFO  testCases.TC_019_Returns - Home Page Displayed 
+17:36:55.580 [main] INFO  testCases.TC_019_Returns - Clicked on My Account 
+17:36:56.106 [main] INFO  testCases.TC_019_Returns - Clicked on Login 
+17:36:56.173 [main] INFO  testCases.TC_019_Returns - Provided Email 
+17:36:56.226 [main] INFO  testCases.TC_019_Returns - Provided Password 
+17:36:56.818 [main] INFO  testCases.TC_019_Returns - Clicked on Login
+17:37:03.356 [main] INFO  testCases.TC_019_Returns - Click on Returns
+17:37:03.356 [main] INFO  testCases.TC_019_Returns - Finished TC_019_Returns
+17:37:04.495 [main] INFO  testCases.TC_017_Downloads -  Starting TC_016_OrderHistory
+17:37:05.228 [main] INFO  testCases.TC_017_Downloads - Home Page Displayed 
+17:37:05.530 [main] INFO  testCases.TC_017_Downloads - Clicked on My Account 
+17:37:05.993 [main] INFO  testCases.TC_017_Downloads - Clicked on Login 
+17:37:06.064 [main] INFO  testCases.TC_017_Downloads - Provided Email 
+17:37:06.119 [main] INFO  testCases.TC_017_Downloads - Provided Password 
+17:37:06.790 [main] INFO  testCases.TC_017_Downloads - Clicked on Login
+17:37:10.623 [main] INFO  testCases.TC_017_Downloads - Clicked on Site Map
+17:37:11.110 [main] INFO  testCases.TC_017_Downloads - Clicked on Download
+17:37:14.119 [main] INFO  testCases.TC_017_Downloads - Finished TC_017_Downloads
+17:37:15.150 [main] INFO  testCases.TC_020_Transections -  Starting TC_016_OrderHistory
+17:37:15.878 [main] INFO  testCases.TC_020_Transections - Home Page Displayed 
+17:37:16.174 [main] INFO  testCases.TC_020_Transections - Clicked on My Account 
+17:37:16.674 [main] INFO  testCases.TC_020_Transections - Clicked on Login 
+17:37:16.743 [main] INFO  testCases.TC_020_Transections - Provided Email 
+17:37:16.798 [main] INFO  testCases.TC_020_Transections - Provided Password 
+17:37:17.391 [main] INFO  testCases.TC_020_Transections - Clicked on Login
+17:37:20.911 [main] INFO  testCases.TC_020_Transections - Clicked on Transections
+17:37:23.917 [main] INFO  testCases.TC_020_Transections - Finished TC_020_Transections
+17:25:29.356 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+17:25:30.119 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register 
+17:25:30.119 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Customer details
+17:25:37.644 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+17:25:38.357 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked on Register 
+17:25:38.357 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided Customer details
+17:25:40.390 [TestNG-tests-1] FATAL testCases.TC_001_AccountRegistration -  Account Registration Failed 
+17:25:48.563 [TestNG-tests-2] FATAL testCases.TC_001_AccountRegistration -  Account Registration Failed 

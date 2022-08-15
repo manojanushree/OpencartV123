@@ -21,10 +21,6 @@ public class TC_001_AccountRegistration extends BaseClass
 		driver.get(rb.getString("appURL"));
 		driver.manage().window().maximize();
 		
-		HomePage hp=new HomePage(driver);
-		hp.clickMyAccount();
-		logger.info("Clicked on My Account ");
-		hp.clickRegister();
 		logger.info("Clicked on Register ");
 		
 		logger.info("Provided Customer details");

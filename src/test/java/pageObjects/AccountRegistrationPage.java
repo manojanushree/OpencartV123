@@ -9,7 +9,7 @@ public class AccountRegistrationPage {
 
 	WebDriver driver;
 	
-	public AccountRegistrationPage(WebDriver driver)
+	public AccountRegistrationPage(WebDriver driver) // next step create constructor -get WebDriver instance from the test case and driver instance assign to local variable  -->purpose of constructor if we have any variable at the class and want to assign value in the variable
 	{
 		this.driver=driver;
 		PageFactory.initElements(driver, this);

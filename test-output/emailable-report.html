@@ -9,15 +9,28 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">opencart</th></tr>
-<tr><td><a href="#t0">Test</a></td><td class="num">6</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">62,972</td><td></td><td></td></tr>
+<tr><td><a href="#t0">ChromeTest</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">14,632</td><td></td><td></td></tr>
+<tr class="stripe"><td><a href="#t1">EdgeTest</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">22,837</td><td></td><td></td></tr>
+<tr><th>Total</th><th class="num">0</th><th class="num">0</th><th class="num">0</th><th class="num attn">2</th><th class="num">37,469</th><th colspan="2"></th></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">opencart</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">testCases.TC_004_Search</td><td><a href="#m0">test_search</a></td><td rowspan="1">1659472059615</td><td rowspan="1">14228</td></tr><tr class="passedodd"><td rowspan="1">testCases.TC_005_Addcart</td><td><a href="#m1">test_addcart</a></td><td rowspan="1">1659472074718</td><td rowspan="1">12009</td></tr><tr class="passedeven"><td rowspan="1">testCases.TC_016_OderHistory</td><td><a href="#m2">test_OrderHistory</a></td><td rowspan="1">1659472087661</td><td rowspan="1">7386</td></tr><tr class="passedodd"><td rowspan="1">testCases.TC_017_Downloads</td><td><a href="#m3">test_downloads</a></td><td rowspan="1">1659472104294</td><td rowspan="1">7755</td></tr><tr class="passedeven"><td rowspan="1">testCases.TC_019_Returns</td><td><a href="#m4">test_Returns</a></td><td rowspan="1">1659472095952</td><td rowspan="1">7410</td></tr><tr class="passedodd"><td rowspan="1">testCases.TC_020_Transections</td><td><a href="#m5">test_transections</a></td><td rowspan="1">1659472112961</td><td rowspan="1">7419</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">opencart</th></tr></tbody><tbody id="t0"><tr><th colspan="4">ChromeTest &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">testCases.TC_001_AccountRegistration</td><td><a href="#m0">test_account_registration</a></td><td rowspan="1">1660598729349</td><td rowspan="1">11043</td></tr></tbody>
+<tbody id="t1"><tr><th colspan="4">EdgeTest &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">testCases.TC_001_AccountRegistration</td><td><a href="#m1">test_account_registration</a></td><td rowspan="1">1660598737643</td><td rowspan="1">10921</td></tr></tbody>
 </table>
-<h2>Test</h2><h3 id="m0">testCases.TC_004_Search#test_search</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">testCases.TC_005_Addcart#test_addcart</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">testCases.TC_016_OderHistory#test_OrderHistory</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">testCases.TC_017_Downloads#test_downloads</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">testCases.TC_019_Returns#test_Returns</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m5">testCases.TC_020_Transections#test_transections</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>ChromeTest</h2><h3 id="m0">testCases.TC_001_AccountRegistration#test_account_registration</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: null
+	at testCases.TC_001_AccountRegistration.test_account_registration(TC_001_AccountRegistration.java:72)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 20 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>EdgeTest</h2><h3 id="m1">testCases.TC_001_AccountRegistration#test_account_registration</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: null
+	at testCases.TC_001_AccountRegistration.test_account_registration(TC_001_AccountRegistration.java:72)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 20 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>
