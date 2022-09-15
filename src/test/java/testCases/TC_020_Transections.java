@@ -6,7 +6,7 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.Transections;
 import testBase.BaseClass;
-
+//comment
 public class TC_020_Transections  extends BaseClass
 {
 	@Test
