@@ -16,7 +16,7 @@ public class HomePage {
 	}
 	
 	@FindBy(xpath="//span[text()='My Account']")
-	WebElement lnkMyaccount;
+	private WebElement lnkMyaccount;                              //Note - all variables in page object classes are private
 	
 	@FindBy(linkText="Register")
 	WebElement lnkRegister;

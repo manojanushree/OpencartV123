@@ -16,7 +16,7 @@ public class LoginPage {
 	}
 	
 	@FindBy(xpath="//input[@id='input-email']")
-	WebElement txtEmailAddress;
+	private WebElement txtEmailAddress;                          //Note - all variables in page object classes are private
 	
 	@FindBy(xpath="//input[@id='input-password']")
 	WebElement txtPassword;

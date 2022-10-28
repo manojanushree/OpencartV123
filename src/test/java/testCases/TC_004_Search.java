@@ -41,15 +41,15 @@ public class TC_004_Search extends BaseClass
 		    
 		    if(tarpage)
 		    {
-		    	logger.info("Search Failed ");
+		    	logger.info("Search Sucess ");
 				Assert.assertTrue(true);
 		    }
 		    
 		    else
 			{
-				logger.error("Search Success ");
+				logger.error("Search Failed ");
 				captureScreen(driver, "test_search"); //Capturing screenshot
-				Assert.assertTrue(true);
+				Assert.assertTrue(false);
 			}
 		}	
 		catch(Exception e)

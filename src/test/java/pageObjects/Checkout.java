@@ -16,16 +16,16 @@ public class Checkout
 		PageFactory.initElements(driver,this);
 	}	
 	     @FindBy(name="search")
-		 WebElement searchtxt;
+		 private WebElement searchtxt;
 		
 		@FindBy(xpath="//button[@class='btn btn-default btn-lg']")
-		WebElement searchbutton;
+		private WebElement searchbutton;
 		
 		@FindBy(xpath="//span[normalize-space()='Add to Cart']")
-		WebElement addcart;
+		private WebElement addcart;
 		
 		@FindBy(xpath="//button[@class='btn btn-inverse btn-block btn-lg dropdown-toggle']")
-				WebElement viewcart;
+		private	WebElement viewcart;
 		
 		@FindBy(xpath="//span[text()='Shopping Cart']")
 		WebElement shopingcart;

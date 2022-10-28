@@ -16,31 +16,31 @@ public class AccountRegistrationPage {
 	}
 	
 	@FindBy(name="firstname")
-	WebElement txtFirstName;
+	private WebElement txtFirstName;                        //Note - all variables in page object classes are private
 	
 	@FindBy(name="lastname")
-	WebElement txtLastName;
+	private WebElement txtLastName;
 	
 	@FindBy(name="email")
-	WebElement txtEmail;
+	private WebElement txtEmail;
 	
 	@FindBy(name="telephone")
-	WebElement txtTelephone;
+	private WebElement txtTelephone;
 	
 	@FindBy(name="password")
-	WebElement txtPassword;
+	private WebElement txtPassword;
 	
 	@FindBy(name="confirm")
-	WebElement txtConfirmPassword;
+	private WebElement txtConfirmPassword;
 	
 	@FindBy(name="agree")
-	WebElement chkdPolicy;
+	private WebElement chkdPolicy;
 	
 	@FindBy(xpath="//input[@value='Continue']")
-	WebElement btnContinue;
+	private WebElement btnContinue;
 	
-	@FindBy(xpath="//h1[normalize-space()='Your Account Has Been Created!']")
-	WebElement msgConfirmation;
+	@FindBy(xpath="//text()='Your Account Has Been Created!']")
+	private WebElement msgConfirmation;
 	
 	
 	
@@ -83,6 +83,7 @@ public class AccountRegistrationPage {
 	{
 		btnContinue.click();
 	}
+	
 	public String getConfirmationMsg()
 	{
 		try
