@@ -555,3 +555,11 @@
 17:25:38.357 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided Customer details
 17:25:40.390 [TestNG-tests-1] FATAL testCases.TC_001_AccountRegistration -  Account Registration Failed 
 17:25:48.563 [TestNG-tests-2] FATAL testCases.TC_001_AccountRegistration -  Account Registration Failed 
+19:27:15.085 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+19:27:19.907 [main] FATAL testCases.TC_004_Search - Search Failed 
+16:54:38.236 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+16:54:43.163 [main] FATAL testCases.TC_004_Search - Search Failed 
+16:54:44.979 [main] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+16:54:49.875 [main] FATAL testCases.TC_005_Addcart - Add cart  Failed
+16:54:51.657 [main] INFO  testCases.TC_009_ForgotPassword - Starting TC_009_ForgotPassword
+16:54:58.295 [main] INFO  testCases.TC_006_ProductCompare - Strating TC_006_ProductCompare
